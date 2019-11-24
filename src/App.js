@@ -5,15 +5,15 @@ class App extends Component {
   state = {
     contacts: [
       {
-        id: "karen",
-        name: "Karen Isgrigg",
-        handle: "karen_isgrigg",
+        id: "kathy",
+        name: "Kathy Haro",
+        handle: "kharo",
         avatarURL: "http://localhost:5001/karen.jpg"
       },
       {
-        id: "richard",
-        name: "Richard Kalehoff",
-        handle: "richardkalehoff",
+        id: "Parker",
+        name: "Peter Parker",
+        handle: "p_parkerhoff",
         avatarURL: "http://localhost:5001/richard.jpg"
       },
       {
